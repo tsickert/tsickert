@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Thomas
+
+- 🗓️ A commit a day keeps the boredom away.
+- 🌱 I’m currently learning about chat bots and the joys of website hosting.
+- 💬 Ask me about discord development, I've been hacking away at bots and the discord API for a year now. 
+- 💻 Check out my [discord webhook action](https://github.com/tsickert/discord-webhook)!
+- ⚡ Fun fact: I was an (uncredited) extra in a [Disney Movie!](https://www.imdb.com/title/tt0397113/)
+
+
 
 <!--
 **tsickert/tsickert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
