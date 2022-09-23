@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Thomas
+### Hi there 👋 I'm Thomas, I work @github
 
 - 🗓️ A contribution a day...
 - 💻 Check out my [discord webhook action](https://github.com/tsickert/discord-webhook)!
